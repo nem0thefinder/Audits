@@ -12,7 +12,7 @@ I am doing contests on different platforms like [CodeHawks](https://codehawks.cy
 ## First Flights 
 |Contest|Findings|Rank|Report|
 |:------|:-------|:--:|:----:|
-|[MyCut](https://codehawks.cyfrin.io/c/2024-08-MyCut)[2H,1M,0L]|12|
+|[MyCut](https://codehawks.cyfrin.io/c/2024-08-MyCut)|[2H,1M,0L]|12|
 
 
 ## Audit Contests
