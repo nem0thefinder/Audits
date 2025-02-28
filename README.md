@@ -10,7 +10,7 @@ I'm Securing Protocols everywhere such as in [sherlock](https://audits.sherlock.
 ## First Flights 
 | Nonce | Contest | Findings | Rank | Report |
 |:--------|:---------|:------:|:------:|:------:|
-|1|[christmasDinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner)|[3H,4M,2L](x.com)|4/90|-|
+|1|[christmasDinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner)|[3H,4M,2L](x.com)|4/90|[📄](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner/results?lt=contest&page=1&sc=xp&sj=reward&t=report)|
 
 
 ## Audit Contests
