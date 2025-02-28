@@ -1,7 +1,5 @@
 # nem0thefinder Portfolio
 
-
-## About FindingNemo
 I'm a Computer Science Graduate and Junior Web3 security researcher who had a strong passion for Web3 technologies and the value they bring to the  world
 
 I'm Securing Protocols everywhere such as in [sherlock](https://audits.sherlock.xyz/watson/nem0thefinder).
