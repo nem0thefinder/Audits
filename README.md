@@ -12,13 +12,12 @@ I am doing contests on different platforms like [sherlock](https://audits.sherlo
 ## First Flights 
 | Nonce | Contest | Findings | Rank | Report |
 |:--------|:---------|:------:|:------:|:------:|
-
 |1|[christmasDinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner)|[3H,4M,2L](x.com)|4/90|-|
 
 
 ## Audit Contests
 | Nonce | Contest | Findings | Rank | Report |
 |:--------|:---------|:------:|:------:|:------:|
-|1|[Daoo](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33|[1H,1M](x.com)|113/292|-|
+|1|[Daoo](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|[1H,1M](x.com)|113/292|-|
 
 
