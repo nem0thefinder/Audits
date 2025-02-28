@@ -1,4 +1,3 @@
-
 # nem0thefinder Portfolio
 
 I'm a Computer Science Graduate and Junior Web3 security researcher who had a strong passion for Web3 technologies and the value they bring to the  world
@@ -17,6 +16,6 @@ I'm Securing Protocols everywhere such as in [sherlock](https://audits.sherlock.
 ## Audit Contests
 | Nonce | Contest | Findings | Rank | Report |
 |:--------|:---------|:------:|:------:|:------:|
-|1|[Daoo](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|[1H,1M,1L,2I](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-01Daao.md)|113/292|-|
+|1|[Daoo](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)|[1H,1M,1L,2I](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-01-Daao.md)|113/292|-|
 
 
