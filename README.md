@@ -4,8 +4,8 @@ I'm a Computer Science Graduate and Junior Web3 security researcher who had a st
 
 I'm Securing Protocols everywhere such as in [sherlock](https://audits.sherlock.xyz/watson/nem0thefinder).
 
-- Twitter: [@FindngNem0](https://x.com/nem0thefinder)
-- Discord: [@findngnemo](https://discord.com/channels/nem0thefinder)
+- Twitter: [@nem0thefinder](https://x.com/nem0thefinder)
+- Discord: [@nem0thefinder](https://discord.com/channels/nem0thefinder)
 
 ## First Flights 
 | Nonce | Contest | Findings | Rank | Report |
