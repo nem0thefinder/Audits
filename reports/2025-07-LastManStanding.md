@@ -1,10 +1,10 @@
 # Findings Summary
 |ID|Title|Severity|
 |:-:|:---|:------:|
-|[H-01](https://github.com/nem0thefinder/Audits/new/main/reports#h-01-legitimate-winners-can-be-dethroned-after-grace-period)|Legitimate Winners Can Be Dethroned After Grace Period |HIGH|
-|[H-02](https://github.com/nem0thefinder/Audits/new/main/reports#h-02-claim-fee-calculation-based-on-minimum-required-instead-of-actual-payment)|Claim Fee Calculation Based on Minimum Required Instead of Actual Payment|HIGH|
-|[M-01](https://github.com/nem0thefinder/Audits/new/main/reports#m-01-critical-comparison-operator-error-in-claimthrone)|Critical comparison operator Error in `claimThrone` |MEDIUM|
-|[M-02](https://github.com/nem0thefinder/Audits/new/main/reports#m-02-previous-king-payout-mechanism-completely-missing)|Previous King Payout Mechanism Completely Missing|MEDIUM|
+|[H-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-LastManStanding.md#h-01-legitimate-winners-can-be-dethroned-after-grace-period)|Legitimate Winners Can Be Dethroned After Grace Period |HIGH|
+|[H-02](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-LastManStanding.md#h-02-claim-fee-calculation-based-on-minimum-required-instead-of-actual-payment)|Claim Fee Calculation Based on Minimum Required Instead of Actual Payment|HIGH|
+|[M-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-LastManStanding.md#m-01-critical-comparison-operator-error-in-claimthrone)|Critical comparison operator Error in `claimThrone` |MEDIUM|
+|[M-02](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-LastManStanding.md#m-02-previous-king-payout-mechanism-completely-missing)|Previous King Payout Mechanism Completely Missing|MEDIUM|
 
 ## 
 ## [H-01] Legitimate Winners Can Be Dethroned After Grace Period 
