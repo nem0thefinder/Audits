@@ -2,7 +2,7 @@
 |ID|Title|Severity|
 |:-:|:---|:------:|
 |[M-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-OpenEden.md#m-01-oracle-sandwich-attack-enables-risk-free-arbitrage-in-t-bill-vault)|Oracle Sandwich Attack Enables Risk-Free Arbitrage in T-Bill Vault|MEDIUM|
-|[L-01](hhttps://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-OpenEden.md#l-01-critical-mispricing-protocol-assumes-perfect-usdc-peg)|Critical Mispricing: Protocol Assumes Perfect USDC Peg|LOW|
+|[L-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-07-OpenEden.md#l-01-critical-mispricing-protocol-assumes-perfect-usdc-peg)|Critical Mispricing: Protocol Assumes Perfect USDC Peg|LOW|
 
 ## [M-01] Oracle Sandwich Attack Enables Risk-Free Arbitrage in T-Bill Vault
 ### Summary 
