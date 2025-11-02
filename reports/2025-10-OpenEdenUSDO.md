@@ -1,11 +1,11 @@
 # Findings Summary
 |ID|Title|Severity|
 |:-:|:---|:------:|
-|[M-01](https://github.com/nem0thefinder/Audits/blob/main/reports#m-01-using-the-same-heartbeat-for-multiple-price-feeds-causing-dos)|Using the same heartbeat for multiple price feeds, causing DOS|MEDIUM|
-|[M-02](https://github.com/nem0thefinder/Audits/blob/main/reports#m-02-redemption-cancellation-results-in-shares-loss-due-to-bonus-multiplier-mismatch)|Redemption Cancellation Results in shares Loss Due to Bonus Multiplier Mismatch|MEDIUM|
-|[L-01](https://github.com/nem0thefinder/Audits/blob/main/reports#l-01-inconsistent-use-of-the-storage-__gap-variable) |Inconsistent Use of the storage __gap Variable|LOW|
-|[L-02](https://github.com/nem0thefinder/Audits/blob/main/reports#l-02-assetregistery_getfreshprice-uses-deprecated-answerinround)| `AssetRegistery::_getFreshPrice` Uses deprecated `answerInRound`|LOW|
-|[L-03](https://github.com/nem0thefinder/Audits/blob/main/reports#l-03-incorrect-share-calculation-in-minting-process-due-to-future-multiplier-usage)| Incorrect Share Calculation in Minting Process Due to Future Multiplier Usage|LOW|
+|[M-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md#m-01-using-the-same-heartbeat-for-multiple-price-feeds-causing-dos)|Using the same heartbeat for multiple price feeds, causing DOS|MEDIUM|
+|[M-02](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md#m-02-redemption-cancellation-results-in-shares-loss-due-to-bonus-multiplier-mismatch)|Redemption Cancellation Results in shares Loss Due to Bonus Multiplier Mismatch|MEDIUM|
+|[L-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md#l-01-inconsistent-use-of-the-storage-__gap-variable) |Inconsistent Use of the storage __gap Variable|LOW|
+|[L-02](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md#l-02-assetregistery_getfreshprice-uses-deprecated-answerinround)| `AssetRegistery::_getFreshPrice` Uses deprecated `answerInRound`|LOW|
+|[L-03](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-OpenEdenUSDO.md#l-03-incorrect-share-calculation-in-minting-process-due-to-future-multiplier-usage)| Incorrect Share Calculation in Minting Process Due to Future Multiplier Usage|LOW|
 
 
 ## [M-01] Using the same heartbeat for multiple price feeds, causing DOS
