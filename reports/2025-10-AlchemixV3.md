@@ -1,16 +1,16 @@
 # Findings Summary
 |ID|Title|Severity|
 |:-:|:---|:------:|
-|[H-01]()|Assets Permanently Locked Due to KillSwitch Flag|HIGH|
-|[H-02]()| Zero Slippage Protection in Toke strategies Allocation|HIGH|
-|[H-03]()|Deallocation Accounting Mismatch Between Vault and Adapter|HIGH|
-|[M-01]()|Admin Can Bypass permissionedCalls Protection Using Multicall|MEDIUM|
-|[L-01]()|Missing addresses Verification in ZeroXSwapVerifier|LOW|
-|[L-02]()|TOKE Rewards Permanently Locked in Strategy adapter|LOW|
-|[L-03]()|Broken isValidSignature leads to fund freezing |LOW|
-|[L-04]()|Inverted Comparison Operator Allows Operators Admin-Level Allocation Privileges|LOW|
-|[L-05]()|Reserve Drainage Due to Incorrect Balance Measurement|LOW|
-|[I-01]()|Hardcoded Slippage in MYT Strategy|INFO|
+|[H-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#h-01--assets-permanently-locked-due-to-killswitch-flag)|Assets Permanently Locked Due to KillSwitch Flag|HIGH|
+|[H-02](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#h-02-zero-slippage-protection-in-toke-strategies-allocation)| Zero Slippage Protection in Toke strategies Allocation|HIGH|
+|[H-03](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#h-03-deallocation-accounting-mismatch-between-vault-and-adapter)|Deallocation Accounting Mismatch Between Vault and Adapter|HIGH|
+|[M-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#m-01-admin-can-bypass-permissionedcalls-protection-using-multicall)|Admin Can Bypass permissionedCalls Protection Using Multicall|MEDIUM|
+|[L-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#l-01-missing-addresses-verification-in-zeroxswapverifier)|Missing addresses Verification in ZeroXSwapVerifier|LOW|
+|[L-02](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#l-02-toke-rewards-permanently-locked-in-strategy-adapter)|TOKE Rewards Permanently Locked in Strategy adapter|LOW|
+|[L-03](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#l-03--broken-isvalidsignature-leads-to-fund-freezing)|Broken isValidSignature leads to fund freezing |LOW|
+|[L-04](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#l-04-inverted-comparison-operator-allows-operators-admin-level-allocation-privileges)|Inverted Comparison Operator Allows Operators Admin-Level Allocation Privileges|LOW|
+|[L-05](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#l-05--reserve-drainage-due-to-incorrect-balance-measurement)|Reserve Drainage Due to Incorrect Balance Measurement|LOW|
+|[I-01](https://github.com/nem0thefinder/Audits/blob/main/reports/2025-10-AlchemixV3.md#i-01-hardcoded-slippage-in-myt-strategy)|Hardcoded Slippage in MYT Strategy|INFO|
 
 
 
